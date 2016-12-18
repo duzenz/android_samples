@@ -81,7 +81,7 @@ public class MainActivity extends AppCompatActivity {
             public void onResponse(Call<SOAnswersResponse> call, Response<SOAnswersResponse> response) {
 
                 if(response.isSuccessful()) {
-                    mAdapter.updateAn"swers(response.body().getItems());
+                    mAdapter.updateAnswers(response.body().getItems());
                     Log.d("AnswersPresenter", "posts loaded from API");
                 }else {
                     int statusCode  = response.code();
