@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "915380610230",
+    "firebase_url": "https://duzenz-demo.firebaseio.com",
+    "project_id": "duzenz-demo",
+    "storage_bucket": "duzenz-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915380610230:android:c5e0c0b10ffdc9a3",
+        "android_client_info": {
+          "package_name": "duzenz.com.authenticademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915380610230-o488gskq1bm1jtaq0stk0ea4q2j7f7c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhxp8_prTyqs42Q5-WjrXh6UBiN44PODU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
