@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bottom Navigation</string>
+    <string name="title_shop">Shop</string>
+    <string name="title_gifts">Gifts</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_card_fragment">Hello Card Fragment</string>
+    <string name="hello_gift_fragment">Hello Gift Fragment</string>
+    <string name="hello_profile_fragment">Hello Profile Fragment</string>
+    <string name="hello_store_fragment">Hello Store Fragment</string>
+
+
+</resources>
